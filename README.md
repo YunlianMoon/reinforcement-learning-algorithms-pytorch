@@ -25,7 +25,7 @@ All code is written in Python 3 and advanced techniques use [PyTorch](https://py
   - h-DQN ([Kulkarni et al. 2016](https://arxiv.org/pdf/1604.06057.pdf))
   - SNN-HRL ([Florensa et al. 2017](https://arxiv.org/pdf/1704.03012.pdf))
   - DIAYN ([Eyensbach et al. 2018](https://arxiv.org/pdf/1802.06070.pdf))
-  - HIRO
+  - HIRO ([Nachum et al. 2018](https://arxiv.org/pdf/1805.08296.pdf))
 - Policy Gradient
   - REINFORCE ([Williams et al. 1992](https://people.cs.umass.edu/~barto/courses/cs687/williams92simple.pdf))
   - PPO ([Schulman et al. 2017](https://openai-public.s3-us-west-2.amazonaws.com/blog/2017-07/ppo/ppo-arxiv.pdf))
